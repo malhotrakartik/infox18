@@ -14,7 +14,6 @@ const express = require("express"),
 
 require("dotenv").load();
 
-//example
 
 mongoose
   .connect(
